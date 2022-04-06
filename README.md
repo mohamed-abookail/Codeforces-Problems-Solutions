@@ -1,1 +1,3 @@
-# Codeforces-Problems-Solutions
+# Codeforces
+
+Solutions of Some Codeforces Problems.
